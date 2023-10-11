@@ -1,2 +1,2 @@
 # KaggleNotebooks
-notebooks from kaggle competitions
+notebooks from  kaggle competitions i participated in
